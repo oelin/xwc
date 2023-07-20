@@ -7,6 +7,8 @@ Execute when changed.
 ```sh
 curl https://raw.githubusercontent.com/oelin/xwc/main/xwc.sh >> <path>
 
+chmod +x <path>
+
 alias xwc='<path>'
 ```
 
