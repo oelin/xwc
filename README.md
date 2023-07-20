@@ -5,9 +5,9 @@ Execute when changed.
 ## Installation
 
 ```sh
-curl https://raw.githubusercontent.com/oelin/xwc/main/xwc.sh >> /usr/local/bin/xwc.sh
+curl https://raw.githubusercontent.com/oelin/xwc/main/xwc.sh >> <path>
 
-alias xwc='/usr/local/bin/xwc.sh'
+alias xwc='<path>'
 ```
 
 ## Usage
